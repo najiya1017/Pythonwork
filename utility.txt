@@ -1,0 +1,19 @@
+print("message",end=="\n") ==> print a message in console,end defines how to end after printing on the console.By default it is defined as "\n"
+
+type(object) ==> return data type of object
+
+input("message") ==> read value from console
+
+round(object,precission) ==> To round decimal values 
+
+len(message) ==> returns the length of a string
+
+range(start,end,step) ==> return numbers from start to end-1 incremented by step.
+
+min(num1,num2) ==>returns smallest number.
+
+max(num1,num2)==>returns largest number.
+
+isinstance(object, type)==>returns True if the specified object is of the specified type, otherwise False.
+
+enumerate(iterable, start)==>get index and object

@@ -1,0 +1,2 @@
+this program reads from a file.
+And give the count of lines.

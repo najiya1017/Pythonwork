@@ -1,0 +1,6 @@
+apple
+banana
+orange
+pinapple
+watermelon
+orange

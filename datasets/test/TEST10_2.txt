@@ -1,0 +1,4 @@
+this is a python program
+this program converts a line to words
+this program is ver simplethis program reads from a file.
+And give the count of lines.
