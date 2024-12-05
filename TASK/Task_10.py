@@ -1,3 +1,7 @@
+# Given an m x n matrix, return all elements of the matrix in spiral order.
+# Input: matrix = [[1,2,3], [4,5, 6], [7,8,9]]
+# Output: [1,2,3,6, 9,8, 7,4,5]
+
 matrix=[[1,2,3],[4,5,6],[7,8,9]]
 top,left,bottom,right=0,0,len(matrix)-1,len(matrix[0])-1
 while top<=bottom and left<=right:
