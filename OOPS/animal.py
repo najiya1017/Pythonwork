@@ -24,6 +24,6 @@ class lion(Animal):
     def sound(self):
         print("roar")
 
-lion_instance=lion("lion","carnivorous")
+lion_instance=lion()
 print(lion_instance)
 print(lion_instance.sound())
